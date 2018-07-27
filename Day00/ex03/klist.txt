@@ -1,0 +1,8 @@
+Credentials cache: API:38496
+        Principal: ldhanis@S19.BE
+
+  Issued                Expires               Principal
+Jul  2 13:00:13 2018  Jul  2 23:00:13 2018  krbtgt/S19.BE@S19.BE
+Jul  2 13:00:14 2018  Jul  2 23:00:13 2018  ldap/ldap-master.s19.be@S19.BE
+Jul  2 13:00:14 2018  Jul  2 23:00:13 2018  HTTP/san-ssd.s19.be@S19.BE
+Jul  2 13:10:52 2018  Jul  2 23:00:13 2018  host/vogsphere.s19.be@S19.BE
